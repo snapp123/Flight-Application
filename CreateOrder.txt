@@ -1,0 +1,4 @@
+*** Settings ***
+Library           SeleniumLibrary
+Library           AutoItLibrary
+Resource          CommonUsedKeyword.txt
